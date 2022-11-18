@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JennyRamsay/ghibli_app/static/css/main.e6c13ad2.css",
+    "main.js": "/JennyRamsay/ghibli_app/static/js/main.3958d1f6.js",
+    "static/js/787.11c2e41e.chunk.js": "/JennyRamsay/ghibli_app/static/js/787.11c2e41e.chunk.js",
+    "index.html": "/JennyRamsay/ghibli_app/index.html",
+    "main.e6c13ad2.css.map": "/JennyRamsay/ghibli_app/static/css/main.e6c13ad2.css.map",
+    "main.3958d1f6.js.map": "/JennyRamsay/ghibli_app/static/js/main.3958d1f6.js.map",
+    "787.11c2e41e.chunk.js.map": "/JennyRamsay/ghibli_app/static/js/787.11c2e41e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3958d1f6.js"
+  ]
+}
